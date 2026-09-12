@@ -1,10 +1,16 @@
 # YouTube Copy
 
-Projeto desenvolvido com o objetivo de **praticar e consolidar conhecimentos de HTML e CSS**, tendo como referência visual a página inicial do YouTube.
+Projeto desenvolvido com o objetivo de praticar e consolidar conhecimentos de HTML e CSS, tendo como referência visual a página inicial do YouTube.
 
-A proposta foi reproduzir a estrutura e alguns elementos visuais da interface, utilizando apenas **HTML e CSS**, sem a utilização de frameworks ou JavaScript.
+A proposta foi reproduzir a estrutura e alguns elementos visuais da interface, utilizando apenas HTML e CSS, sem a utilização de frameworks ou JavaScript.
 
-> ⚠️ Este projeto possui finalidade exclusivamente educacional e foi desenvolvido para estudos de desenvolvimento front-end.
+> Este projeto possui finalidade exclusivamente educacional e foi desenvolvido para estudos de desenvolvimento front-end.
+
+## Demonstração
+
+Acesse o projeto publicado no GitHub Pages:
+
+[Visualizar projeto](https://joabe-nogueira.github.io/youtube-homepage-clone)
 
 ## Objetivo
 
@@ -22,9 +28,9 @@ O principal objetivo deste projeto foi colocar em prática conceitos fundamentai
 * Organização de arquivos e estilos;
 * Criação de uma interface inspirada em uma aplicação real.
 
-## 🖥️ Sobre o projeto
+## Sobre o projeto
 
-A página reproduz uma versão simplificada da **home do YouTube**, contendo elementos como:
+A página reproduz uma versão simplificada da home do YouTube, contendo elementos como:
 
 * Barra superior de navegação;
 * Logo do YouTube;
@@ -45,11 +51,11 @@ A página reproduz uma versão simplificada da **home do YouTube**, contendo ele
 * Quantidade de visualizações;
 * Responsividade para diferentes tamanhos de tela.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
-* **HTML5**
-* **CSS3**
-* **Google Fonts — Roboto**
+* HTML5
+* CSS3
+* Google Fonts — Roboto
 
 O projeto não utiliza JavaScript, frameworks ou bibliotecas externas para a construção da interface.
 
@@ -100,13 +106,13 @@ Youtube-copy/
 
 ## Responsividade
 
-A interface foi adaptada para diferentes tamanhos de tela utilizando **Media Queries**.
+A interface foi adaptada para diferentes tamanhos de tela utilizando Media Queries.
 
 O grid de vídeos se comporta de acordo com a largura disponível:
 
-* **Telas maiores:** 3 vídeos por linha;
-* **Telas médias:** 2 vídeos por linha;
-* **Telas menores:** 1 vídeo por linha.
+* Telas maiores: 3 vídeos por linha;
+* Telas médias: 2 vídeos por linha;
+* Telas menores: 1 vídeo por linha.
 
 Em telas pequenas, alguns elementos da barra superior, como a pesquisa e o microfone, também são ocultados para melhorar a adaptação da interface.
 
@@ -114,14 +120,14 @@ Em telas pequenas, alguns elementos da barra superior, como a pesquisa e o micro
 
 Durante o desenvolvimento, foram praticados conceitos importantes de CSS, como:
 
-1. Flexbox
-2. CSS Grid
-3. Position
-4. Media Queries
+* Flexbox;
+* CSS Grid;
+* Position;
+* Media Queries.
 
-##  O que aprendi
+## O que aprendi
 
-Este projeto foi desenvolvido principalmente como uma forma de **aprendizado e prática de HTML e CSS**.
+Este projeto foi desenvolvido principalmente como uma forma de aprendizado e prática de HTML e CSS.
 
 Ao reproduzir uma interface já existente, foi possível entender melhor como diferentes elementos de uma página real são organizados e como conceitos individuais de CSS podem ser combinados para construir uma interface completa.
 
@@ -137,13 +143,12 @@ Entre os principais aprendizados estão:
 * Como organizar imagens, ícones e outros recursos;
 * Como pensar na estrutura de uma interface antes de implementá-la.
 
-
 ## Observação
 
-Este projeto é uma **reprodução para fins de estudo**, baseada na interface do YouTube. Não possui vínculo oficial com o YouTube ou com o Google.
+Este projeto é uma reprodução para fins de estudo, baseada na interface do YouTube. Não possui vínculo oficial com o YouTube ou com o Google.
 
-O objetivo principal é demonstrar a evolução no aprendizado de **HTML e CSS e a capacidade de transformar uma referência visual em uma interface funcional e responsiva**.
+O objetivo principal é demonstrar a evolução no aprendizado de HTML e CSS e a capacidade de transformar uma referência visual em uma interface funcional e responsiva.
 
+---
 
-
-**Desenvolvido para fins de aprendizado em desenvolvimento Front-end.** 
+Desenvolvido para fins de aprendizado em desenvolvimento Front-end.
